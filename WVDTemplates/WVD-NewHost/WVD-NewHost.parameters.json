@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "Prefix": {
-      "value": "Optimize"
+      "value": ""
     },
     "AdminUserName": {
-      "value": "lntad"
+      "value": ""
     },
     "DomainFQDN": {
-      "value": "MSAzureAcademy.com"
+      "value": ""
     },
     "Instance": {
       "value": 1
@@ -21,19 +21,19 @@
       "value": "Small"
     },
     "VnetRgName": {
-      "value": "MSAA-Network-rg"
+      "value": ""
     },
     "VnetName": {
-      "value": "MSAA-vNET"
+      "value": ""
     },
     "SubnetName": {
-      "value": "CoreSubnet"
+      "value": ""
     },
     "ProfilePath": {
-      "value": "\\\\msazureacademy.com\\CorpShares\\FSLogix"
+      "value": ""
     },
     "RegistrationToken": {
-      "value": "eyJhCWhQnGM3ohHKZ31JenFGzSZ"
+      "value": ""
     },
     "Optimize": {
       "value": true
